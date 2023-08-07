@@ -218,7 +218,8 @@ footer a:hover {
     }
     
     header {
-        font-size: 2.1rem;
+        font-size: 2.26rem;
+        margin: 0 0 1.8rem;
     }
 
     .main-text > div {
