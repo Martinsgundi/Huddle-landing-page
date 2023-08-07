@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io/solutions](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-using-flex-and-grid-zPVaIetHZh)
+- Live Site URL: [martinsgundi.github.io](https://martinsgundi.github.io/Huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
